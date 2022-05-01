@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    font-family: 'Kanit', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.red-highlight{
+    color: rgb(255, 0, 0);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+    padding-top: 6%;
+}
+.half-width img{
+    width: 100%;
+    
+}
+.introduce-section{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 450px;
+    padding-bottom: 150px;
+}
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red, rgb(250, 98, 98));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 50;
+}
+.biography-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.half-width{
+    text-shadow: 50px;
+}
+.download-cv{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red, rgb(250, 98, 98));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 50;
+}
+.review{
+    text-align: center;
+    
+}
+.client-say{
+    text-align: center;
+}
+.email{
+    text-align: center;
+    border: 200px solid;
+    border-radius: 50px;
+    background-image: linear-gradient(45deg, red, rgb(250, 98, 98));
+    padding: 10px 20px;
+    color: white;
+    font-weight: 50;
+}
+.last-section{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    font-size: 100%;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+}
